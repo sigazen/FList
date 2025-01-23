@@ -43,6 +43,13 @@ export default defineUserConfig({
       }),
       downProxy:cloudflarePagesDownProxy(),
     },
+    {
+  mountPath:"/example",
+  analysis:fileUrlTreeAnalysis({
+    "/逃离失落之城.zip":"https://huggingface.co/datasets/backumc/mapu/resolve/main/%5B1.20.4%5D%E9%80%83%E7%A6%BB%E5%A4%B1%E8%90%BD%E4%B9%8B%E5%8E%85%20-%20v4.0.zip"
+    }),
+    downProxy:cloudflarePagesDownProxy(),
+  }
     // ... 可以配置多个挂载路径和仓库，以此类推
   ])
 })
