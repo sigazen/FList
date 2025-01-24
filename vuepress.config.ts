@@ -34,7 +34,7 @@ export default defineUserConfig({
     {
   mountPath:"/地图",
   analysis:fileUrlTreeAnalysis({
-    "/[1.20.4]逃离失落之城.zip":"https://baidu.com"
+    "/[1.20.4]逃离失落之城.zip":"https://github.com/jianjianai/FList/releases/download/root/test.video.2.1080p.webm"
     }),
     downProxy:cloudflarePagesDownProxy(),
   }
