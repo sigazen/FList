@@ -41,7 +41,7 @@ export default defineUserConfig({
     "/[1.21.4]起床战争地图+资源包.zip":"https://huggingface.co/datasets/backumc/mapu/resolve/main/%5B1.21.4%5D%E8%B5%B7%E5%BA%8A%E6%88%98%E4%BA%89%E5%9C%B0%E5%9B%BE%2B%E8%B5%84%E6%BA%90%E5%8C%85.zip",
     "/[1.21.4]马里奥竞速 v1.6.3.zip":"https://huggingface.co/datasets/backumc/mapu/resolve/main/%5B1.21.4%5D%E9%A9%AC%E9%87%8C%E5%A5%A5%E7%AB%9E%E9%80%9F%20v1.6.3.zip",
     "/[整合包]伪神的沙盒：异域黎明v1.5.6.zip":"https://huggingface.co/datasets/backumc/mapu/resolve/main/%5BMinecraft%5D%E4%BC%AA%E7%A5%9E%E7%9A%84%E6%B2%99%E7%9B%92%EF%BC%9A%E5%BC%82%E5%9F%9F%E9%BB%8E%E6%98%8Ev1.5.6.zip",
-    "/[整合包]超级像素派对.zip":"https://huggingface.co/datasets/backumc/mapu/resolve/main/%5B%E6%95%B4%E5%90%88%E5%8C%85%5D%E8%B6%85%E7%BA%A7%E5%83%8F%E7%B4%A0%E6%B4%BE%E5%AF%B9.zip",
+    "/[整合包]超级像素派对.zip":"https://huggingface.co/datasets/backumc/mapu/resolve/main/%5B%E6%95%B4%E5%90%88%E5%8C%85%5D%E8%B6%85%E7%BA%A7%E5%83%8F%E7%B4%A0%E6%B4%BE%E5%AF%B9.zip"
     }),
     downProxy:cloudflarePagesDownProxy(),
   }
