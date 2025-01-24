@@ -35,7 +35,7 @@ export default defineUserConfig({
   mountPath:"/地图",
   analysis:fileUrlTreeAnalysis({
     "/[1.20.4]逃离失落之城.zip":"https://baidu.com",
-    "/[1.11]惊天矿工团.zip":"https://huggingface.co/datasets/backumc/mapu/resolve/main/%5B1.11%5D%E6%83%8A%E5%A4%A9%E7%9F%BF%E5%B7%A5%E5%9B%A2.zip",
+    "/[1.11]惊天矿工团.jpg":"https://huggingface.co/datasets/backumc/mapu/resolve/main/%5B1.11%5D%E6%83%8A%E5%A4%A9%E7%9F%BF%E5%B7%A5%E5%9B%A2.zip",
     "/[1.19.2]蛋糕塔 可装fabric版本mod.zip":"https://huggingface.co/datasets/backumc/mapu/resolve/main/%5B1.19.2%5D%E8%9B%8B%E7%B3%95%E5%A1%94%20%E5%8F%AF%E8%A3%85fabric%E7%89%88%E6%9C%ACmod.zip",
     "/[1.20.1]灾难之星2.zip":"https://huggingface.co/datasets/backumc/mapu/resolve/main/%5B1.20.1%5D%E7%81%BE%E9%9A%BE%E4%B9%8B%E6%98%9F2.zip",
     "/[1.21.4]起床战争地图+资源包.zip":"https://huggingface.co/datasets/backumc/mapu/resolve/main/%5B1.21.4%5D%E8%B5%B7%E5%BA%8A%E6%88%98%E4%BA%89%E5%9C%B0%E5%9B%BE%2B%E8%B5%84%E6%BA%90%E5%8C%85.zip",
